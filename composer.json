@@ -1,6 +1,7 @@
 {
     "name": "danielbachhuber/wp-cli-reset-post-date-command",
     "description": "Reset the post_date field on your posts after you change the timezone.",
+    "type": "wp-cli-package",
     "license": "MIT",
     "authors": [
         {
